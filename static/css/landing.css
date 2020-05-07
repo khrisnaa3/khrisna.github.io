@@ -1,0 +1,110 @@
+@font-face {
+    font-family: poppinsBold;
+    src: url(../asset/font/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: poppinsMedium;
+    src: url(../asset/font/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: poppinsRegular;
+    src: url(../asset/font/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: poppinsSemiBold;
+    src: url(../asset/font/Poppins-SemiBold.ttf);
+}
+
+body {
+    background-color: #F5F5F5;
+    font-family: 'poppinsRegular';
+}
+
+.navbar {
+    background-color: #F5F5F5 !important;
+    font-family: 'poppinsSemiBold' !important;
+}
+
+#contact-text {
+    color: black !important;
+}
+
+.verticalLine {
+    margin-left: 2rem;
+    border-left: thin solid grey;
+}
+
+.sosmed-logo {
+    margin-left: 2rem;
+    display: inline;
+    margin-right: 2rem;
+}
+
+.contact-navbar p{
+    display: inline;
+}
+
+.contact-navbar {
+    display: inline;
+}
+
+.sosmed-logo img {
+    margin-right: 1rem;
+}
+
+
+body {
+    background-image: url('../asset/icon/backgroundHomepage.png');
+    background-repeat: no-repeat;
+    background-position: right 30vh;
+    background-size: 30%;
+}
+
+.outside-box {
+    height: 100%;
+    margin-top: 25vh;
+    font-family: 'poppinsBold';
+}
+
+#deskripsi {
+    margin-top: 1rem;
+    font-family: 'poppinsRegular';
+}
+
+h1 {
+    font-size: 80px;
+    color: black;
+}
+
+.hello-text {
+    color: black;
+    display: inline;
+}
+
+.intro-text {
+    margin-right: 11vw;
+}
+
+.intro-text2 {
+    margin-right: 5vw;
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #078282;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.col1 {
+    text-align: right;
+}
+
+.footer-homepage {
+    margin-top: 8rem;
+}
+
+.footer-homepage p {
+    display: inline;
+}
