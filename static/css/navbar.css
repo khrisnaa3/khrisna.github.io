@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #F5F5F5 !important;
+    font-family: 'poppinsSemiBold' !important;
+}
+
+.navbar-brand {
+    margin-right: 5rem;
+    margin-left: 2rem;
+}
+
+#contact-text {
+    color: black !important;
+}
+
+.verticalLine {
+    margin-left: 2rem;
+    border-left: thin solid grey;
+}
+
+.sosmed-logo {
+    margin-left: 2rem;
+    display: inline;
+    margin-right: 2rem;
+}
+
+.contact-navbar p{
+    display: inline;
+}
+
+.contact-navbar {
+    display: inline;
+}
+
+.sosmed-logo img {
+    margin-right: 1rem;
+}
