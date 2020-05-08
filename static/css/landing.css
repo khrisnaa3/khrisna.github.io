@@ -25,6 +25,11 @@ body {
     font-family: 'poppinsSemiBold' !important;
 }
 
+.navbar-brand {
+    margin-right: 5rem;
+    margin-left: 2rem;
+}
+
 #contact-text {
     color: black !important;
 }
