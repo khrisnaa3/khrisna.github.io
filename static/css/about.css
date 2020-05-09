@@ -49,6 +49,13 @@ body {
     margin-top: -10vh;
 }
 
+.hobbies-list {
+    color: #078282;
+    width: 200px; 
+    margin: auto; 
+    text-align: left;
+}
+
 .resume-box {
     border: 2px solid #078282;
     width: fit-content;
@@ -87,9 +94,17 @@ body {
     margin-top: 10vh;
 }
 
-.exp-list {
+.exp {
     color: #078282;
-    width: 200px; 
+    width: 35vw; 
     margin: auto; 
     text-align: left;
+}
+
+.exp b {
+    font-family: 'poppinsBold';
+}
+
+[class$="list"] {
+    font-family: 'poppinsMedium';
 }
