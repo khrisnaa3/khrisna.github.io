@@ -1,25 +1,3 @@
-@font-face {
-    font-family: poppinsBold;
-    src: url(../asset/font/Poppins-Bold.ttf);
-}
-@font-face {
-    font-family: poppinsMedium;
-    src: url(../asset/font/Poppins-Medium.ttf);
-}
-@font-face {
-    font-family: poppinsRegular;
-    src: url(../asset/font/Poppins-Regular.ttf);
-}
-@font-face {
-    font-family: poppinsSemiBold;
-    src: url(../asset/font/Poppins-SemiBold.ttf);
-}
-
-body {
-    background-color: #F5F5F5;
-    font-family: 'poppinsRegular';
-}
-
 body {
     background-image: url('../asset/icon/backgroundHomepage.png');
     background-repeat: no-repeat;
@@ -66,12 +44,4 @@ h1 {
 
 .col1 {
     text-align: right;
-}
-
-.footer-homepage {
-    margin-top: 8rem;
-}
-
-.footer-homepage p {
-    display: inline;
 }
