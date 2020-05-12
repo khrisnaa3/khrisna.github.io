@@ -1,0 +1,42 @@
+.title {
+    font-family: 'poppinsBold';
+    font-size: 65px;
+}
+
+.title p {
+    color: #078282;
+    display: inline;
+}
+
+.in-container .container {
+    margin-top: 10vh;
+}
+
+.description {
+    margin-top: 10vh;
+    width: 23vw;
+    margin-left: 5.5vw;
+}
+
+.project-img img {
+    width: 23vw;
+    margin-left: 5.5vw;
+}
+
+.project-link {
+    margin-left: 5.5vw;
+    margin-top: 2rem;
+    margin-bottom: 10vh;
+}
+
+.project-link .project{
+    font-family: 'poppinsBold';
+}
+
+.project-link p {
+    display: inline;
+}
+
+.kanan {
+    margin-top: 30vh;
+}
