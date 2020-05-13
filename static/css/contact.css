@@ -1,3 +1,10 @@
+body {
+    background-image: url('../asset/icon/backgroundContact1.png'), url('../asset/icon/backgroundContact2.png');
+    background-repeat: no-repeat;
+    background-position: left 35vh, bottom right;
+    background-size: 10%, 20%;
+}
+
 .title {
     font-family: 'poppinsBold';
     font-size: 65px;
@@ -33,10 +40,16 @@
     font-family: 'poppinsBold';
 }
 
+.email a {
+    color: black;
+}
+
 .sosmed-contact {
     margin-left: 3vw;
 }
 
 .sosmed-contact img {
+    margin-top: 1rem;
+    width: 80px;
     padding: 0.5rem;
 }

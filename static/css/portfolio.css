@@ -1,3 +1,10 @@
+body {
+    background-image: url('../asset/icon/backgroundProjects1.png'), url('../asset/icon/backgroundProjects2.png');
+    background-repeat: no-repeat;
+    background-position: bottom left, right 30vh;
+    background-size: 35%, 10%;
+}
+
 .title {
     font-family: 'poppinsBold';
     font-size: 65px;
