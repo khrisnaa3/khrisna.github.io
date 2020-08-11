@@ -1,0 +1,15 @@
+body {
+    background-image: url('../asset/icon/backgroundProjects1.png'), url('../asset/icon/backgroundProjects2.png'), url('../asset/icon/backgroundSubProjects.png');
+    background-repeat: no-repeat;
+    background-position: bottom left, right 30vh, left 30vh;
+    background-size: 35%, 10%, 7%;
+}
+
+.project-carousel {
+    padding: 15vw;
+}
+
+.carousel-caption>p {
+    background-color: rgb(194, 195, 192, 0.55);
+    border-radius: 10px;
+}
