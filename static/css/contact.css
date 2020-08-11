@@ -21,6 +21,7 @@ body {
 
 .description {
     margin-top: 5vh;
+    height: 256px;
     width: 30vw;
     margin-left: 5.5vw;
 }

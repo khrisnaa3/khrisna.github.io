@@ -33,6 +33,7 @@ body {
     margin-top: -13vh;
     margin-left: 5vw;
     width: 30vw;
+    height: 270px;
 }
 
 .skills-box {
@@ -51,9 +52,19 @@ body {
 
 .hobbies-list {
     color: #078282;
-    width: 200px; 
-    margin: auto; 
+    width: 200px;
+    margin: auto;
     text-align: left;
+}
+
+.job-exp {
+    width: 80vw;
+    margin-bottom: 3rem;
+}
+
+.org-exp {
+    width: 80vw;
+    margin-top: 3rem;
 }
 
 .resume-box {
@@ -65,6 +76,7 @@ body {
 }
 
 .resume-box:hover {
+    cursor: pointer;
     background-color: #078282;
     color: white;
 }
@@ -76,10 +88,6 @@ body {
     padding: 3px;
 }
 
-.arrow:hover {
-    border-color: white;
-}
-  
 .right {
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
@@ -96,8 +104,8 @@ body {
 
 .exp {
     color: #078282;
-    width: 35vw; 
-    margin: auto; 
+    width: 35vw;
+    margin: auto;
     text-align: left;
 }
 
